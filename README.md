@@ -171,7 +171,7 @@ Regularly back up:
 - Environment variables
 - Database (if applicable)
 
-### Security Considerations
+### Security Consideration
 
 - Always use strong passwords in production
 - Keep Docker and system packages updated
