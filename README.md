@@ -16,7 +16,7 @@ This is the monorepo for the Freddy application, containing all services and inf
 │   ├── proxy/              # Nginx reverse proxy
 │   ├── redis/              # Redis configuration
 │   └── tunnel/             # SSH tunnel service
-├── scripts/                # Utility scripts
+├── scripts/                # Utility script
 ├── .env.example            # Example environment variables 
 ├── bitbucket-pipelines.yml # CI/CD configuration
 ├── docker-compose.yml      # Main Docker Compose configuration
